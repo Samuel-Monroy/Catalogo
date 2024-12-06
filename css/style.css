@@ -1,0 +1,29 @@
+
+img{
+        width: 50%;
+        height: 50%;
+}
+
+body{
+
+        background-color:black;
+
+}
+
+h1 {
+        color: white;
+
+}
+
+p{
+        color: white;
+}
+
+button{
+        
+        margin-left: 1000px;
+        align-items: center;
+        color: white;
+        background-color: gray;
+}
+
